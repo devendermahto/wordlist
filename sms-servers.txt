@@ -1,4 +1,8 @@
 otp_auth
+smsapi
+sendtxt
+msgid
+senderId
 odoo
 webkul
 wk.sms.sms
